@@ -1,33 +1,9 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9">
   <diagram name="第 1 页" id="UqX_lrB706F2IaxumNR4">
-    <mxGraphModel dx="1058" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1546" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MbzUhrbHPrXMQJ9lEVuZ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据隐写加密&lt;div&gt;隐私探测+遗忘学习&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="220" y="296" as="geometry" />
-        </mxCell>
-        <mxCell id="MbzUhrbHPrXMQJ9lEVuZ-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="系统" vertex="1">
-          <mxGeometry height="60" width="330" x="220" y="200" as="geometry" />
-        </mxCell>
-        <mxCell id="MbzUhrbHPrXMQJ9lEVuZ-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="理论/框架" vertex="1">
-          <mxGeometry height="60" width="330" x="220" y="390" as="geometry" />
-        </mxCell>
-        <mxCell id="MbzUhrbHPrXMQJ9lEVuZ-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="硬件&lt;div&gt;（监控自毁）&lt;/div&gt;&lt;div&gt;（可信训练）&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="430" y="298" as="geometry" />
-        </mxCell>
-        <mxCell id="MbzUhrbHPrXMQJ9lEVuZ-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="软硬一体" vertex="1">
-          <mxGeometry height="60" width="120" x="340" y="520" as="geometry" />
-        </mxCell>
-        <mxCell id="MbzUhrbHPrXMQJ9lEVuZ-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;题目&lt;div&gt;三个研究内容，各三个技术点&lt;/div&gt;&lt;div&gt;场景难点&lt;/div&gt;&lt;div&gt;关键问题&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="330" x="700" y="410" as="geometry" />
-        </mxCell>
-        <mxCell id="MbzUhrbHPrXMQJ9lEVuZ-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="验证" vertex="1">
-          <mxGeometry height="60" width="80" x="90" y="358" as="geometry" />
-        </mxCell>
-        <mxCell id="MbzUhrbHPrXMQJ9lEVuZ-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="安全评估" vertex="1">
-          <mxGeometry height="60" width="80" x="90" y="430" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
